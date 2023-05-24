@@ -10,7 +10,7 @@
 <div class="content">
 <div class="container"> 
   <iframe class="responsive-iframe" src="background.html"></iframe>
-</div>
+</div></div>
 
 <div class="main">
 <div class="container"> 
