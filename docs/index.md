@@ -8,19 +8,8 @@
 </div>
 
 <div class="content">
-
-  <h2>Background</h2>
-  This section provdies background and motivation for the exercise
-
-  <h2>Resources</h2>
-  Stella Architect
-                    
-  <h2>Objectives</h2>
-   <ul>
-      <li>First objective</li>
-      <li>Second objective</li>
-   </ul>
-
+<div class="container"> 
+  <iframe class="responsive-iframe" src="background.html"></iframe>
 </div>
 
 <div class="main">
