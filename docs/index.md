@@ -8,7 +8,7 @@
 </div>
 
 <div class="content">
-<div class="container"> 
+<div class="container-content"> 
   <iframe class="responsive-iframe" src="background.html"></iframe>
 </div></div>
 
