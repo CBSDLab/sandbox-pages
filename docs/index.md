@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="mystyle.css">
 
-<div class="header>
+<div class="header">
    # CBSD Workbook Exercise 1
    This execise provides an introduction to digitizing a causal loop diagram
 </div>
