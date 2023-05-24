@@ -1,3 +1,10 @@
+@import "{{ site.theme }}";
+
+header {
+  display: none;
+}
+
+
 * {
   box-sizing: border-box;
 }
