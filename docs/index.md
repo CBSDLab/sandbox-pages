@@ -25,6 +25,6 @@
 
 <div class="main">
 
-<iframe src="instructions.html" title="Instructions" width="100%">
+<iframe src="instructions.html" title="Instructions" width="100%" height="100%">
         
 </div>
