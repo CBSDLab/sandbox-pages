@@ -16,12 +16,15 @@
   Stella Architect
                     
   <h2>Objectives</h2>
-  Step 1: Start the program. 
+   <ul>
+      <li>First objective</li>
+      <li>Second objective</li>
+   </ul>
 
 </div>
 
 <div class="main">
 
-<p>These are the main instructions</p>
+<h2>These are the main instructions</h2>
    
 </div>
