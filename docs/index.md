@@ -14,7 +14,10 @@ Here is the [relative link to HTML](instructions.html)
 # Instructions
 
 <div class="gallery">
-  <p> This is some text </p>
+
+  1. asdf
+  1. asdf
+  
   <div class="desc">Description of the text</div>
 </div>
 
