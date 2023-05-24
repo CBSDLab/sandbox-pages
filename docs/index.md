@@ -8,11 +8,9 @@
 </div>
 
 <div class="content">
-<div class="container-content"> 
   <iframe class="responsive-iframe" src="background.html"></iframe>
-</div></div>
+</div>
 
 <div class="main">
-<div class="container"> 
   <iframe class="responsive-iframe" src="instructions.html"></iframe>
-</div></div>
+</div>
