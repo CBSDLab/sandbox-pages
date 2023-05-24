@@ -2,29 +2,26 @@
 
 <div class="header">
    
-   # CBSD Workbook Exercise 1
+   <h1>CBSD Workbook Exercise 1</h1>
    This execise provides an introduction to digitizing a causal loop diagram
 
 </div>
 
 <div class="content">
 
-  ## Background
+  <h2>Background</h2>
   This section provdies background and motivation for the exercise
 
-  ## Resources
-  * Stella Architect
+  <h2>Resources</h2>
+  Stella Architect
                     
-  ## Objectives
-  1. Learning objective 1
-  2. Learning objective 2
+  <h2>Objectives</h2>
+  Step 1: Start the program. 
 
 </div>
 
 <div class="main">
 
-## Instructions
-1. Step 1 instructions
-2. Step 2 instructions
+<p>These are the main instructions</p>
    
 </div>
