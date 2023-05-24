@@ -1,27 +1,28 @@
-# Simple index page in /doc folder
-
 <link rel="stylesheet" href="mystyle.css">
 
-<!-- These were removed because it seems that the relative link to markdown does work for both the markdown documents and HTML once GitHub pages has process the commit
-Here is the [absolute link to markdown](https://github.com/CBSDLab/sandbox-pages/blob/main/docs/instructions.md)
-Here is the [abosolute link to HTML](https://github.com/CBSDLab/sandbox-pages/blob/main/docs/instructions.html)
-Here is the [relative link to HTML](instructions.html)
--->
+<div class="header>
 
-# Background
+   # CBSD Workbook Exercise 1
+   This execise provides an introduction to digitizing a causal loop diagram
 
-
-# Instructions
-
-<div class="gallery">
-
-  1. asdf
-  1. asdf
-  
-  <div class="desc">Description of the text</div>
 </div>
 
+<div class="content">
 
-Here is the [relative link to markdown](instructions.md)
+  ## Background
+  This section provdies background and motivation for the exercise
 
+  ## Resources
+  * Stella Architect
+                    
+  ## Objectives
+  1. Learning objective 1
+  2. Learning objective 2
 
+</div>
+
+<div class="main">
+## Instructions
+1. Step 1 instructions
+2. Step 2 instructions
+</div>
