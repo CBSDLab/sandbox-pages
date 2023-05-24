@@ -24,7 +24,6 @@
 </div>
 
 <div class="main">
-
-<iframe src="instructions.html" title="Instructions" width="100%" height="400px">
-        
-</div>
+<div class="container"> 
+  <iframe class="responsive-iframe" src="instructions.html"></iframe>
+</div></div>
