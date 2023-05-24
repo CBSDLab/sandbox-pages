@@ -9,7 +9,7 @@
 
 <div class="content">
 <div class="container"> 
-  <iframe class="responsive-iframe" src="background.html"></iframe>
+  <iframe class="responsive-iframe" src="background.html" height="350"></iframe>
 </div></div>
 
 <div class="main">
