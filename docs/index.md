@@ -2,7 +2,7 @@
 
 <div class="header">
    
-   <h1>CBSD Workbook Exercise 1</h1>
+   <h1>CBSD Workbook Exercise 1 Demo</h1>
    This execise provides an introduction to digitizing a causal loop diagram
 
 </div>
